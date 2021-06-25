@@ -13,12 +13,9 @@
 # License for the specific language governing permissions and limitations
 # under the License.
 
-This is a template for the configuration file.
-Make a copy called `application.yml` and change the values below.
-
 line.bot:
-  channel-token: 'Put Your Channel Token Here.'
-  channel-secret: 'Put Your Channel Secret Here.'
+  channel-token: 'w6ko6m8xyS8xRh5aansc44FETDJKKOzSUzCE0ARdf6JY76GSsrBvO0YSYEkw8pOHX3oVkrp8pNVa1sszD3wey8PMZnbznddyVzwlD8B0r1xsxv0yrqr0ZflrDtLqaOAA1MT/v54KPrCbCXoD6bxA7AdB04t89/1O/w1cDnyilFU='
+  channel-secret: 'b812b903d095ea13f723166ae3e5bdbb'
   handler.path: /callback
 
 # To remove Client wire logs. Please comment out following lines.
